@@ -12,6 +12,27 @@ files:
   - name: tests.py
     visible: false
     learner_created: false
+  - name: agents/inventory_agent.py
+    visible: true
+    learner_created: true
+  - name: agents/__init__.py
+    visible: true
+    learner_created: true
+  - name: agents/diet_agent.py
+    visible: true
+    learner_created: true
+  - name: services/llm_client.py
+    visible: true
+    learner_created: true
+  - name: services/__init__.py
+    visible: true
+    learner_created: true
+  - name: models.py
+    visible: true
+    learner_created: true
+  - name: agents/manager_agent.py
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/530/stages/3092/implement#comment
 status: Unchecked
 record: -1

@@ -30,6 +30,12 @@ files:
   - name: models.py
     visible: true
     learner_created: true
+  - name: agents/manager_agent.py
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/530/stages/3091/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 29 Dec 2025 00:31:40 UTC"
+record: 3

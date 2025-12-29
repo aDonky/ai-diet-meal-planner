@@ -19,3 +19,8 @@ class DietInput(BaseModel):
 class DietResponse(BaseModel):
     compatible_items: List[str]
     suggested_recipe_ideas: List[str]
+
+
+class AskInput(BaseModel):
+    items: List[str]
+    diet: str
